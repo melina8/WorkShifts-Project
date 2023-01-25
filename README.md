@@ -85,7 +85,7 @@ The program for the whole selected month appears on a new window (repo, sick lea
 <kbd><img src="https://user-images.githubusercontent.com/119127267/213828732-88443368-de9b-44ef-b8a0-70e233b33b3a.jpg"
 width="800" height="620"></kbd>
 
-"One workshift corresponds to each employee according to the number of employees needed for each workshift. The workshifts remain almost unchanged for 7 days (including days off) and then rotate. When the required workshifts are covered by the existing number of employees, if there are any surplus, they correspond to "choose workshift." In such a case, we have to select the workshift we wish to assign an employee to from the drop-down menu. After any changes are made to the schedule, we have to save them to inform the database."
+One workshift corresponds to each employee according to the number of employees needed for each workshift. The workshifts remain almost unchanged for 7 days (including days off) and then rotate. When the required workshifts are covered by the existing number of employees, if there are any surplus, they correspond to "choose workshift." In such a case, we have to select the workshift we wish to assign an employee to from the drop-down menu. After any changes are made to the schedule, we have to save them to inform the database.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/213828752-b5d7526b-757b-4156-899f-bd5744843cfd.jpg"
 width="800" height="620"></kbd>
