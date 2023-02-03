@@ -7,7 +7,6 @@ width="500" height="500"></kbd>
 ## About ##
 - What is WorkShifts
 - Screenshots from the Desktop Application
-- Some code examples
              
 ## What is WorkShifts ##
 
@@ -103,4 +102,3 @@ width="1000" height="580"></kbd>
 <kbd><img src="https://user-images.githubusercontent.com/119127267/213830608-66e08b91-ea52-4464-a23d-190c45d76a86.jpg"
 width="1000" height="580"></kbd>
 
-## Some code examples ##
